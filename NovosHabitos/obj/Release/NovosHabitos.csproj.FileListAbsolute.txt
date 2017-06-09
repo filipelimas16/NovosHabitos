@@ -1,0 +1,17 @@
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\bin\Release\NovosHabitos.exe.config
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\bin\Release\NovosHabitos.exe
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\bin\Release\NovosHabitos.pdb
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\obj\Release\NovosHabitos.NovosHabitos.resources
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\obj\Release\NovosHabitos.Properties.Resources.resources
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\obj\Release\NovosHabitos.csproj.GenerateResource.Cache
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\obj\Release\NovosHabitos.exe
+C:\Users\adm\Downloads\NovosHabitos-master\NovosHabitos-master\NovosHabitos\obj\Release\NovosHabitos.pdb
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\bin\Release\NovosHabitos.exe.config
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Release\NovosHabitos.exe
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Release\NovosHabitos.pdb
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\bin\Release\NovosHabitos.exe
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\bin\Release\NovosHabitos.pdb
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Release\NovosHabitos.csprojResolveAssemblyReference.cache
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Release\NovosHabitos.NovosHabitos.resources
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Release\NovosHabitos.Properties.Resources.resources
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Release\NovosHabitos.csproj.GenerateResource.Cache
